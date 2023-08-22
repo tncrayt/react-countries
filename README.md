@@ -1,7 +1,5 @@
 # Country Information App - React
 
-![App Screenshot](public/screenshot.png)
-
 This project is a web application built with React that allows users to explore information about countries from around the world. It provides a comprehensive overview of each country's details, including their capital, population, languages spoken, currency, and more. The app also features a user-friendly interface and interactive maps for a richer user experience.
 
 ## Table of Contents
